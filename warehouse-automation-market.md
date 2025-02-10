@@ -88,4 +88,4 @@ Companies like Amazon and Walmart are leading the way in automation, demonstrati
 
 In the face of growing competition and customer expectations, warehouse automation is no longer a luxury — it’s a necessity. As businesses continue to adopt and integrate automation technologies, we are witnessing the dawn of a new era in supply chain operations.
 
-**[Read the complete blog](https://www.nextmsc.com/report/warehouse-automation-market)**
+**[Read the complete blog](https://www.nextmsc.com/blogs/warehouse-automation-market-trends)**
